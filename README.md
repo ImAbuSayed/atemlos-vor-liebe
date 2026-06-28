@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/atemlos-vor-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Atemlos vor Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/atemlos-vor-liebe/) |
+| **Get License** | [License this song: Atemlos vor Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/atemlos-vor-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ich seh dein Gesicht im Neonlicht, Baby, alles dreht sich
+> Die City ist cold, doch neben dir fühl ich mich unsterblich
+> Komm, steig ein, der Motor heult, wir jagen durch die Straßen
+> Atemlos vor Liebe, Babe, ich kann es kaum noch fassen
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
